@@ -48,3 +48,13 @@ Este script Python é utilizado para obter eventos esportivos ao vivo de uma API
 
 ## Exemplo de Saída
 Quando o script é executado, ele exibe informações dos eventos ao vivo formatadas como:
+
+País: Brasil
+Campeonato: Série A
+Casa: Time A vs Fora: Time B
+Data de Início: 2024-07-07T16:00:00Z
+Placar Casa: 1 vs Placar Fora: 0
+Tempo de Jogo: 45
+Escanteios Casa: 3 vs Escanteios Fora: 2
+Cartões Amarelos Casa: 1 vs Cartões Amarelos Fora: 0
+Cartões Vermelhos Casa: 0 vs Cartões Vermelhos Fora: 1
